@@ -253,7 +253,12 @@ extra = {
     'Palestine/Gaza': 'PS',
     'Palestine/West Bank': 'PS',
     'The Gambia': 'GM',
-    'Zanzibar': 'TZ'
+    'Zanzibar': 'TZ',
+    'Bosnia': 'BA',
+    'Britain': 'GB',
+    'Sao Tome': 'ST',
+    'Trinidad-Tobago': 'TT',
+    'UAE': 'AE'
     
 }
 

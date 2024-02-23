@@ -282,6 +282,10 @@ for key, value in alpha_3_extra.items():
     alpha_3_to_alpha_2[key] = value
 # -
 
+alpha_2_to_alpha_3 = {}
+for country in pycountry.countries:
+    alpha_2_to_alpha_3[country.alpha_2] = country.alpha_3
+
 
 
 country_orgs = {
